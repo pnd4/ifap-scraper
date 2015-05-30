@@ -8,7 +8,7 @@ require 'mechanize'
 print "Enter the gallery URL: "
 
 # target is the gallery URL (the one with 24 pics/pg)
-#target = "http://www.imagefap.com/pictures/5387123/Erna?gid=5387123&view=0"
+#EXAMPLE: http://www.imagefap.com/pictures/4987365/Tiny-Teen-Has-Perky-34DDs?gen=&view=0
 target = gets.chomp
 
 # Fix-up URL to see all photo's without pagination
